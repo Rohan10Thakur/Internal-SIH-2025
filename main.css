@@ -1,0 +1,17 @@
+.avatars-container{
+    height:10rem;
+    width:40rem;
+    margin-top: 30rem;
+    position:absolute;
+    left:28rem;
+    display: flex;
+}
+.avatars-container img{
+    height: 6rem;
+    margin: 2rem;
+    width: 6rem;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 10px black;
+cursor: pointer;
+}
